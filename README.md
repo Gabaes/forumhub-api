@@ -60,7 +60,7 @@ Siga os passos abaixo para executar a API localmente.
 
 1.  **Clone o Repositório**
     ```bash
-    git clone [https://github.com/seu-usuario/forumhub-api.git](https://github.com/seu-usuario/forumhub-api.git)
+    git clone https://github.com/seu-usuario/forumhub-api.git
     cd forumhub-api
     ```
 
